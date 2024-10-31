@@ -13,7 +13,7 @@ namespace dotNETProject.Models.Repositories
             {
 
                 new Employee {Id=1,Name="Sofien ben ali", Departement= "comptabilité",Salary=1000},
-                new Employee {Id=2,Name="Mourad triki", Departement= "RH",Salary=1500},
+                new Employee {Id=2,Name="Mourad triki", Departement= "HR",Salary=1500},
                 new Employee {Id=3,Name="ali ben mohamed", Departement= "informatique",Salary=1700},
                 new Employee {Id=4,Name="tarak aribi", Departement= "informatique",Salary=1100}
 
@@ -53,6 +53,19 @@ namespace dotNETProject.Models.Repositories
                 return lemployees.Where(a => a.Name.Contains(term)).ToList();
             }
             else { return lemployees; }
+        }
+
+        public double SalaryAverage()
+        {
+            return lemployees.Average(x => x.Salary);
+        }
+        public double MaxSalary()
+        {
+            return lemployees.Max(x => x.Salary);
+        }
+        public int HrEmployeesCount()
+        {
+            return lemployees.Where(x => x.Departement == "HR").Count();
         }
     }
 }

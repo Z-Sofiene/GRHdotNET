@@ -21,12 +21,18 @@ namespace dotNETProject.Controllers
             return View("Index", result);
         }
 
+
         //
         public ActionResult Index()
         {
             var employees = employeeRepository.GetAll();
+            ViewData["EmployeesCount"] = employees.Count();
+            ViewData["SalaryAverage"] = employeeRepository.SalaryAverage();
+            ViewData["MaxSalary"] = employeeRepository.MaxSalary();
+            ViewData["HREmployeesCount"] = employeeRepository.HrEmployeesCount();
             return View(employees);
         }
+
 
         public ActionResult Details(int id)
         {

@@ -225,3 +225,4 @@ E:\Sof\Sofiene\3GL\dotNET\projects\dotNETProject\obj\Debug\net8.0\refint\dotNETP
 E:\Sof\Sofiene\3GL\dotNET\projects\dotNETProject\obj\Debug\net8.0\dotNETProject.pdb
 E:\Sof\Sofiene\3GL\dotNET\projects\dotNETProject\obj\Debug\net8.0\dotNETProject.genruntimeconfig.cache
 E:\Sof\Sofiene\3GL\dotNET\projects\dotNETProject\obj\Debug\net8.0\ref\dotNETProject.dll
+E:\Sof\Sofiene\3GL\dotNET\projects\dotNETProject\obj\Debug\net8.0\dotNETProject.sourcelink.json

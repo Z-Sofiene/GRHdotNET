@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|solutionrelative:models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FEEFD4-F3BB-4FBB-AFBB-BF5CE571A83E}|dotNETProject.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\dotnetproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,34 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Models\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "Models\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAswCIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:44:02.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
-              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T12:55:06.678Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -102,59 +72,46 @@
               "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
               "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwBoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T12:49:37.463Z",
+              "WhenOpened": "2024-10-31T14:49:01.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T13:36:19.59Z",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:44:02.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IRepository.cs",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:35:12.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:20:30.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:54:06.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
               "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T11:55:05.392Z",
               "EditorCaption": ""
@@ -162,19 +119,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Models\\Repositories\\IRepository.cs",
-              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Models\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:35:12.654Z",
+              "WhenOpened": "2024-10-31T11:20:30.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:36:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:54:06.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Employee\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
@@ -182,12 +163,11 @@
               "RelativeToolTip": "Views\\Employee\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T13:00:59.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:00:59.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
@@ -195,12 +175,11 @@
               "RelativeToolTip": "Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T12:52:25.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T12:52:25.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -208,12 +187,11 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T13:35:44.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:35:44.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -221,12 +199,11 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T13:35:48.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:35:48.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
@@ -234,12 +211,11 @@
               "RelativeToolTip": "Views\\Employee\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T12:49:15.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T12:49:15.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\dotNETProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -247,8 +223,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:56:27.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T11:56:27.129Z"
             }
           ]
         }
