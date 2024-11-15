@@ -87,12 +87,7 @@ namespace dotNETProject.Controllers
         {
             try
             {
-                if (employeeRepository.GetAll().Contains(employee))
-                {
-                    ModelState.AddModelError("Id", "ID déjas existant");
-                    return View();
-                }
-                else if (ModelState.IsValid)
+                if (ModelState.IsValid)
                 {
                     employeeRepository.Update(id, employee);
                     return RedirectToAction(nameof(Index));
